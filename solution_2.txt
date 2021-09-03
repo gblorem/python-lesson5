@@ -1,0 +1,6 @@
+line 1
+line 2
+line 3
+string length 1
+string length 1+2
+count of word = 5
